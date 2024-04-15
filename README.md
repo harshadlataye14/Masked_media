@@ -3,6 +3,9 @@
 
 Masked_media is a Python tool designed for hiding and extracting secret messages in media files such as images, audio, and text files. This tool uses steganography techniques to embed and retrieve messages, making it a useful tool for secure communication.
 
+![Screenshot 2024-04-15 105325](https://github.com/harshadlataye14/Masked_media/assets/57581998/c37518f3-758a-496b-b277-1bde65ff873a)
+
+
 # Requirements
 
 Python 3.x
