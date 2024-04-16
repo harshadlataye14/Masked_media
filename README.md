@@ -27,14 +27,17 @@ Install Python: If you haven't installed Python yet, download and install it fro
 
 
 cv2: 
+
     pip install opencv-python
 
 wave: (No separate installation needed as it's part of Python's standard library)
 
-PIL (Pillow): 
+PIL (Pillow):
+
     pip install Pillow
 
-numpy: 
+numpy:
+
     pip install numpy
 
 # Usage
