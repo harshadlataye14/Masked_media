@@ -8,65 +8,55 @@ Masked_media is a Python tool designed for hiding and extracting secret messages
 
 # Requirements
 
-Python 3.x
-**Required Python Modules**:
-
-cv2: For image processing and manipulation.
-
-wave: For reading and writing WAV audio files.
-
-PIL (Pillow): For handling image files and their pixel data.
-
-numpy: For numerical operations and array manipulations.
-
-# Installation Steps
-
 Install Python: If you haven't installed Python yet, download and install it from python.org.
 
 **Install Required Python Modules:**
 
 
-cv2: 
+cv2: For image processing and manipulation.
 
     pip install opencv-python
 
 wave: (No separate installation needed as it's part of Python's standard library)
 
-PIL (Pillow):
+PIL (Pillow): For handling image files and their pixel data.
 
     pip install Pillow
 
-numpy:
+numpy: For numerical operations and array manipulations.
 
     pip install numpy
 
+** Or Yoc Can Do **
+    
+    pip install -r requirments.txt
+
 # Usage
-Clone the Repository:
+** Clone the Repository: **
 
-git clone (https://github.com/harshadlataye14/Masked_media.git)
+    git clone (https://github.com/harshadlataye14/Masked_media.git)
 
+** Navigate to the Directory: **
 
-Navigate to the Directory:
+    cd masked_media
 
-cd masked_media
+** Run the Script: **
 
-Run the Script:
+    python masked_media.py
 
-python masked_media.py
-
-Select Mode:
+** Select Mode: **
 
 Choose between encode or decode mode.
 
-Select File Type:
+** Select File Type: **
 
 Choose the file type you want to work with: png, txt, or audio.
 
-Enter File Path:
+** Enter File Path: **
 
 Provide the path to the file you want to encode or decode.
 
-Enter Secret Message:
+** Enter Secret Message: **
 
 If you are in encode mode, enter the secret message you want to hide.
 
