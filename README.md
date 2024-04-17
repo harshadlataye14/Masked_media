@@ -66,4 +66,11 @@ If you are in decode mode, the tool will display the hidden message from the fil
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+# Contact:
+For any inquiries or support, please contact harshadlataye14@gmail.com.
+
+# Version History:
+
+Version 1.0: Initial release (15/04/2024)
+
 
