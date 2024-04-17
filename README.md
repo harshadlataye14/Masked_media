@@ -27,36 +27,36 @@ numpy: For numerical operations and array manipulations.
 
     pip install numpy
 
-** Or Yoc Can Do **
+**Or Yoc Can Do**
     
     pip install -r requirments.txt
 
 # Usage
-** Clone the Repository: **
+**Clone the Repository:**
 
     git clone (https://github.com/harshadlataye14/Masked_media.git)
 
-** Navigate to the Directory: **
+**Navigate to the Directory:**
 
     cd masked_media
 
-** Run the Script: **
+**Run the Script:**
 
     python masked_media.py
 
-** Select Mode: **
+**Select Mode:**
 
 Choose between encode or decode mode.
 
-** Select File Type: **
+**Select File Type:**
 
 Choose the file type you want to work with: png, txt, or audio.
 
-** Enter File Path: **
+**Enter File Path:**
 
 Provide the path to the file you want to encode or decode.
 
-** Enter Secret Message: **
+**Enter Secret Message:**
 
 If you are in encode mode, enter the secret message you want to hide.
 
